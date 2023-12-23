@@ -434,7 +434,9 @@ if __name__=="__main__":
                 import pyttsx3
 
                 # OpenAI API key
-                openai.api_key = "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"
+                #paste api key below
+                openai.api_key = 
+                    #"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"
                 #"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"
                 #" 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"
                     
